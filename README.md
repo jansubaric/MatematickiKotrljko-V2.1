@@ -1,0 +1,1 @@
+ In addition to its primary functionality as a calculator, our application will offer engaging educational games. These games are designed to reinforce mathematical concepts in a fun and interactive way, catering to the unique learning styles and needs of children with special requirements.
